@@ -1,6 +1,6 @@
 # Searchable data table
 
-Enhanced version fo the `lightning-datatable`[https://developer.salesforce.com/docs/component-library/bundle/lightning-datatable/example] that has a search bar on top for in memory search of the data being rendered.
+Enhanced version fo the [`lightning-datatable`](https://developer.salesforce.com/docs/component-library/bundle/lightning-datatable/example) that has a search bar on top for in memory search of the data being rendered.
 
 ### Key features
 
